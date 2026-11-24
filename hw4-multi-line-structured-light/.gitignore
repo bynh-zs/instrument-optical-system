@@ -1,0 +1,14 @@
+# 输出与临时文件
+out/
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
+.venv/
+env/
+.idea/
+.vscode/
+
+# 中间文件
+*.tmp
+*.log
