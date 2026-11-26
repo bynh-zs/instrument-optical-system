@@ -1,0 +1,4 @@
+# 数值模型与绘图依赖
+# 版本为开发时实测通过的环境：Python 3.14 / numpy 2.5 / matplotlib 3.11
+numpy>=1.24
+matplotlib>=3.7

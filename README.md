@@ -4,6 +4,7 @@
 
 | 目录 | 作业 | 内容 | 状态 |
 |---|---|---|---|
+| [`hw1-brewster-angle-microscope/`](hw1-brewster-angle-microscope/) | 作业 1 · 布儒斯特角显微镜 | Blender 整机光机场景（119 对象、56 项自检全过）；单层膜特征矩阵反射率模型与十因素误差传递（ER ≥ 6.96×10⁴ 判据、清晰带 4.4 µm） | 已完成 |
 | [`hw4-multi-line-structured-light/`](hw4-multi-line-structured-light/) | 作业 4 · 多线结构光测量系统 | Blender/Cycles 三材质成像与沟槽互反射仿真；光条中心提取算法 v2（7/7 检出、射影残差 1.11 px） | 已完成 |
 
 ## 组织约定

@@ -1,0 +1,18 @@
+# 输出与临时文件
+out/
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
+.venv/
+env/
+.idea/
+.vscode/
+
+# 中间文件
+*.tmp
+*.log
+
+# 课程提交件：含学号，不进库（由本地作业目录另行提交）
+*-作业*.docx
+*-作业*.pdf
