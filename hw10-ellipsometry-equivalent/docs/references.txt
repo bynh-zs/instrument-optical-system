@@ -1,0 +1,12 @@
+[1] Woollam J A, Johs B D, Herzinger C M, et al. Overview of variable-angle spectroscopic ellipsometry (VASE): I. Basic theory and typical applications[C]//Optical Metrology: A Critical Review (SPIE CR72). Bellingham: SPIE, 1999: 3-28 [SPIE Digital Library 另编为 Proc. SPIE 10294, 1029402 (1999)]. DOI: 10.1117/12.351660.
+[2] LightTrans International GmbH. Variable Angle Spectroscopic Ellipsometry (VASE) Analysis of a SiO2-Coating: Application Use Case MISC.0096, Version 1.0[EB/OL]. [2026-11-14]. https://www.lighttrans.com/fileadmin/shared/UseCases/Application_UC_VASE%20Analysis%20of%20a%20SiO2-Coating.pdf.
+[3] Wyrowski Photonics GmbH. The New VirtualLab Fusion 2023: Overview of new features of version 2023.1, Release Notes (Build 1.556), December 22, 2022[R]. Jena: Wyrowski Photonics GmbH, 2022. https://www.lighttrans.com/fileadmin/inhalte/version_history/221222_Release_Notes_VLF_2023.1_Final_FW.pdf.
+[4] 讯技光电科技(上海)有限公司. VirtualLab Fusion 2023新版本更新内容（二）[EB/OL]. (2022-12-30)[2026-11-14]. http://www.infotek.com.cn/html/4/202212291899_2.html.
+[5] LightTrans International GmbH. Ellipsometry Analyzer: Feature Use Case SWF.0019, Version 1.1[EB/OL]. [2026-11-14]. https://www.lighttrans.com/fileadmin/shared/UseCases/Feature_UC_Ellipsometry%20Analyzer.pdf.
+[6] LightTrans International GmbH. Request Your Free Trial Version[EB/OL]. [2026-11-14]. https://www.lighttrans.com/trial-software.html.
+[7] LightTrans International GmbH. Ellipsometry Analysis via Parameter Variation Analyzer: TUT.0425, Version 1.0[EB/OL]. (2025-01-10)[2026-11-14]. https://www.lighttrans.com/ellipsometry-analysis.html.
+[8] LightTrans International GmbH. Configuration of Grating Structures by Using Interfaces[EB/OL]. [2026-11-14]. https://www.lighttrans.com/index.php?id=1327.
+[9] Wyrowski Photonics GmbH. Wyrowski VirtualLab Fusion Release Notes 2020.1 (Build 1.238)[R]. Jena: Wyrowski Photonics GmbH, 2020. https://www.wyrowski-photonics.com/fileadmin/inhalte/version_history/2020_Release%20Notes.pdf [引自该 PDF §3 VirtualLab Fusion 2020.1 (Build 1.238), Release Date June 2020].
+[10] 天津大学精密仪器与光电子工程学院. 《仪器光学设计》课程讲义：绪论、第一章(课程内部讲义, 非公开资料)[Z]. 天津: 天津大学.
+[11] 天津大学精密仪器与光电子工程学院. 课程报告模板及具体要求(课程内部资料, 非公开)[Z]. 天津: 天津大学.
+[12] 天津大学精密仪器与光电子工程学院. 作业要求和提交时间(课程内部资料, 非公开)[Z]. 天津: 天津大学.

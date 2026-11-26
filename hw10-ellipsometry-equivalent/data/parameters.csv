@@ -1,0 +1,17 @@
+﻿项目,取值,依据/备注
+软件,Wyrowski VirtualLab Fusion Trial (Summer Release) Build 7.6.1.18,Help → About VirtualLab（T01）
+许可,试用版，剩余启动 59 次，单次会话 12 h,About VirtualLab（T01）
+内置分析器,无 Ellipsometry Analyzer,Detectors 过滤 ellips / Calculators 列表（T02b/T02c）
+实现路径,Fresnel Effects Calculator 取 TE/TM 复 Fresnel 系数，按 ρ=r_p/r_s 计算 Ψ、Δ,任课教师 2026-11-15 答复认可
+第一材料,Air (Gas or Vacuum),Fresnel Effects Calculator（T03）
+基底,Silicon(crystalline)-Si_(1985),Materials Catalog（T04b）
+基底色散,由软件 0° 入射复系数反演 n、k（20 个波长点）,data/software_fresnel_coeffs.csv / data/si_nk_inverted.csv
+膜层,"SiO2，扩展 Cauchy A=1.44, B=0.00422 µm², C=1.89e-5 µm⁴",官方 MISC.0096 用例（等效模型）
+膜厚,10.0 nm（基线） / 10.1 nm（对比，差 1 Å）,题目与官方案例
+波长扫描,200 nm → 1 µm，41 点，步长 20 nm,题目要求 / 官方案例 MISC.0096 参数表
+角度扫描,65° / 67.5° / 70° / 72.5° / 75°（5 点，步长 2.5°）,官方 MISC.0096 结果图口径
+软件 Diagram 扫描范围,210.07 nm – 3.71 µm（材料有效区间），角度 65° – 89.999°,Fused_Silica / Si 材料预览（T04a/T04b）
+TM 相对 TE 相位补偿,0°,题目要求 / 官方案例 MISC.0096
+ρ 约定,ρ = r_p/r_s = r_TM/r_TE = tanΨ·exp(−iΔ)，即 Δ = −arg(ρ),按官方 MISC.0096 .da 结果标定（Ψ 逐点吻合、Δ 偏差 <0.2°）
+Δ 取值范围,"[0°, 360°)",相位展开约定；0° 入射裸硅 Δ≈180°
+限制,7.6 Coatings Catalog 仅 3 类预置膜、无 SiO2 单层模板；试用版禁用保存新建文档,T04c / 官网试用说明

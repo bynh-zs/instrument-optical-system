@@ -1,0 +1,19 @@
+# 脚本中间产物（report_data.json 由 build_data.py 重建）
+data/_build/
+
+# Python 生成物
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# 课程交付件：含学号与封面，不进库
+*.docx
+*.pdf
+*.mp4
+
+# 编辑器与系统
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

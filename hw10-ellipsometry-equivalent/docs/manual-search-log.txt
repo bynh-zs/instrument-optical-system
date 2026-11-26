@@ -1,0 +1,29 @@
+安装目录: C:\Program Files\Wyrowski Photonics\VirtualLab Fusion (7.5.0) Trial
+  （该目录名沿用安装包版本号，实际程序与 Help→About 显示均为 7.6.1.18）
+
+文件总数: 147
+逐字节检索命中文件数: 2
+  HIT devDept.Eyeshot.Control.Win.v12.dll -> ['vase']
+  HIT SumatraPDF.exe -> ['vase']
+  这两处命中是 DLL 与阅读器可执行文件里的偶然字符串，与本作业的文档、示例工程无关。
+
+手册: VirtualLab.pdf, 889 页, 22210741 字节
+  ellipsometry                 命中   0 次, 页: []
+  Ellipsometry Analyzer        命中   0 次, 页: []
+  Fresnel Effects Calculator   命中   8 次, 页: [18, 724, 729, 730, 731, 880]
+  Coating Analyzer             命中   9 次, 页: [17, 651, 652, 653, 654, 655, 879]
+  Grating Order Analyzer       命中  14 次, 页: [17, 61, 179, 369, 668, 669, 670, 880]
+  Parameter Run                命中 124 次, 页: [5, 6, 37, 38, 43, 59, 64, 68, 79, 91, 127, 128, 150, 151, 177]
+  Sec. 117                     命中   4 次, 页: [724, 729]
+  Sec. 92                      命中   0 次, 页: []
+  Sec. 99                      命中   5 次, 页: [61, 369, 668, 669, 711]
+  Sec. 16                      命中  39 次, 页: [37, 43, 64, 68, 91, 127, 150, 177, 179, 181, 184, 185, 188, 189, 190]
+
+文档中引用章节号的复核（按章节标题在手册文本层检索，不只看编号）:
+  Sec. 117 / Fresnel Effects Calculator -> 手册出现页 [18, 724, 729, 730, 731, 880]
+  Sec. 92 / Coating Analyzer -> 手册出现页 [17, 651, 652, 653, 654, 655, 879]
+  Sec. 99 / Grating Order Analyzer -> 手册出现页 [17, 61, 179, 369, 668, 669, 670, 880]
+  Sec. 16 / Parameter Run -> 手册出现页 [5, 6, 37, 38, 43, 59, 64, 68, 79, 91, 127, 128]
+
+说明: 手册全文检索中 ellipsometry 与 Ellipsometry Analyzer 均 0 命中，与 software-limits.md 的界面核查
+结论一致：7.6 版本没有椭偏专用分析器，该功能要到 2023.1 才加入。
