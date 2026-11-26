@@ -1,7 +1,9 @@
 # 检查文档里的图片与相对链接是否都存在
+# 用法：python scripts/check_links.py [要检查的目录，默认本作业目录]
 import os, re, sys
 
-HW = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HW = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HW = os.path.abspath(HW)
 bad = []
 md_files = []
 for root, dirs, files in os.walk(HW):

@@ -1,0 +1,10 @@
+# 课程交付件不进库
+*.docx
+*.pdf
+*.mp4
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
